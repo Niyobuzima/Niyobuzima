@@ -3,7 +3,6 @@ I'm currently learning React and node js
 
 
 ## 🌐 Socials:
-linkedin.com/in/theophile-niyobuzima-083875266
 (linkedin.com/in/theophile-niyobuzima-083875266) 
 
 # 💻 Tech Stack:
