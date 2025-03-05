@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning React and node js 
+As a self-taught developer, I’ve realized that tech is more than just knowing a programming language. With this perspective, I’ve continually expanded my skills, always striving to learn and grow. Over time, I’ve gained valuable experience and remain eager to explore new technologies and challenges.
 
 
 ## 🌐 Socials:
